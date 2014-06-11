@@ -29,3 +29,6 @@ Abbreviations are:
 - **PEC**:  Montenbruck, Practical Ephemeris Calculations
 - **AFFC**: Meeus, Astronomical Formulae For Calculators
 - **AA**:   Meeus, Astronomical Algorithms
+- **PAWC**: Duffett-Smith, Practical Astronomy With Your Calculator
+
+Most of algorithms are taken from **PAWC** book.
